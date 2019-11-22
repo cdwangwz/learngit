@@ -6,6 +6,3 @@ Creating a new branch is quick and simple.
 Creating add merge.
 Test Bug branch.
 Git is a free software ...
-
-
-
